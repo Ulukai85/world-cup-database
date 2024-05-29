@@ -10,4 +10,6 @@ From the initial 'games.csv', which provided statistics to some games from the k
 
 While upholding some conditions and restrictions from freeCodeCamp, I built the 'teams' and 'games' databases and populated them with a Bash Script I wrote: [insert_data.sh](https://github.com/Ulukai85/world-cup-database/blob/main/insert_data.sh).
 
-Then, as a last step wrote [queries.sh](https://github.com/Ulukai85/world-cup-database/blob/main/queries.sh) to answer some SQL queries. 
+Then, as a last step I wrote [queries.sh](https://github.com/Ulukai85/world-cup-database/blob/main/queries.sh) to answer some SQL queries. 
+
+All the SQL commands to build the database are collected in [worldcup.sql](https://github.com/Ulukai85/world-cup-database/blob/main/worldcup.sql)
